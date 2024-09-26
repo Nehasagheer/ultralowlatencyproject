@@ -1,0 +1,1 @@
+This project focuses on developing a system or infrastructure that delivers ultra-low latency communication and processing. The goal is to reduce latency to the bare minimum, typically in the range of microseconds or even nanoseconds, making it ideal for applications where real-time data processing is critical.
